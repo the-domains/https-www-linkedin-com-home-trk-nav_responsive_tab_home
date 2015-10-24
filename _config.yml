@@ -1,0 +1,23 @@
+name: 'https://www.linkedin.com/home?trk=nav_responsive_tab_home'
+favicon: null
+layout_spectrum: 0.9574326365254819
+typography_spectrum: 0.7936178361997008
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5879091809038073
+  lightness: 0.6193267160560936
+  saturation: 0.14822976849973202
+  rhythmicContrast: 0.10997240827418864
+purpose: []
